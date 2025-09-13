@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Junsong Pu / Site Title"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Junsong Pu"
 description              : &description "Junsong Pu's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,11 +24,11 @@ repository               : "angrychow/angrychow.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "蒲俊宋(Junsong Pu)" # Update with your name
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "A Master student at Sun Yat-sen University, working on software engineering and cloud computing."
   location         : "Zhuhai, China"
-  employer         : "Red Brick University"
+  employer         : "Sun Yat-sen University"
   uri              : # URL
   email            : "pujs@mail2.sysu.edu.cn" 
 

@@ -11,54 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+* M.S. in Sun Yat-sen University, 2027 (expected)
+* B.S. in Beijing University of Posts and Telecommunications, 2025
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Software Engineer, 北京云唤维科技有限公司, 2024.8 - 2024.12
+* Research Intern, ByteDance ByteBrain, 2025.3 - Present
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+* [ASE '25] ErrorPrism: Reconstructing Error Propagation Paths in Cloud Service Systems
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  **Junsong Pu**, Yichen Li, Zhuangbin Chen, Jinyang Liu, et al.
+
+* [ASE '25] Automated Proactive Logging Quality Improvement for Large-Scale Codebases
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  Yichen Li, Jinyang Liu, **Junsong Pu** et al.
+
+* [ISSTA '25] [Tracezip: Efficient Distributed Tracing via Trace Compression](https://dl.acm.org/doi/10.1145/3728888)
   
-Service and leadership
+  Zhuangbin Chen, **Junsong Pu**, Zibin Zheng
+  
+
+Open source contributions
 ======
-* Currently signed in to 43 different slack teams
+
+* [cloudwego/abcoder](https://github.com/cloudwego/abcoder)
+
+  ABCoder, an AI-oriented Code-processing Framework, is designed to enhance and extend the coding context for Large-Language-Model (LLM), finally boosting the development of AI-assisted-programming applications.
+
+  I mainly participated in the development of the TS-Parser component.
+
