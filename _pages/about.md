@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Junsong Pu is a master’s student at Sun Yat-sen University under the supervision of Dr. [Zhuangbin Chen](https://zbchern.github.io/) (expected graduation: 2027). His research focuses on distributed systems reliability, and LLM-integrated code indexing.
+Junsong Pu is a master’s student at Sun Yat-sen University under the supervision of Dr. [Zhuangbin Chen](https://zbchern.github.io/) (expected graduation: 2027). Prior to that, he received his B.S. degree from the Beijing University of Posts and Telecommunications. His research focuses on distributed systems reliability, and LLM-integrated code indexing.
 
 Publications
 ======
