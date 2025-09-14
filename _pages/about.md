@@ -14,11 +14,11 @@ Publications
 
 * [ASE 25] ErrorPrism: Reconstructing Error Propagation Paths in Cloud Service Systems
   
-  **Junsong Pu**, Yichen Li, Zhuangbin Chen, Jinyang Liu, Zhihan Jiang et al.
+  **Junsong Pu**, Yichen Li, Zhuangbin Chen, Jinyang Liu, Zhihan Jiang *et al*.
 
 * [ASE 25] Automated Proactive Logging Quality Improvement for Large-Scale Codebases
   
-  Yichen Li, Jinyang Liu, **Junsong Pu**, Zhihan Jiang, Zhuangbin Chen et al.
+  Yichen Li, Jinyang Liu, **Junsong Pu**, Zhihan Jiang, Zhuangbin Chen *et al*.
 
 * [ISSTA 25] [Tracezip: Efficient Distributed Tracing via Trace Compression](https://dl.acm.org/doi/10.1145/3728888)
   
