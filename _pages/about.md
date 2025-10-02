@@ -14,7 +14,7 @@ Publications
 
 * [ASE 25] [ErrorPrism: Reconstructing Error Propagation Paths in Cloud Service Systems](https://arxiv.org/abs/2509.26463)
   
-  **Junsong Pu**, Yichen Li, Zhuangbin Chen*, Jinyang Liu, Zhihan Jiang *et al*.
+  **Junsong Pu**, Yichen Li, Zhuangbin Chen\*, Jinyang Liu, Zhihan Jiang *et al*.
 
 * [ASE 25] Automated Proactive Logging Quality Improvement for Large-Scale Codebases
   
